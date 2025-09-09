@@ -1,5 +1,5 @@
 # Exploratory-Data-Analysis-of-Vaccination
-Vaccination Data Analysis &amp; Visualization using Python, SQL &amp; Power BI. Project covers data cleaning, EDA, database design, and interactive dashboards to study vaccination coverage, disease incidence &amp; trends. Provides insights for public health, policy, and resource allocation.
+Vaccination Data Analysis &amp; Visualization using Python, SQL &amp; Power BI. Project covers data cleaning, EDA, database design, and interactive dashboards to study vaccination coverage, disease incidence &amp; trends. Provides insights for public health, policy, and resource allocation.<hr><hr>
 
 # Vaccination
 
@@ -24,14 +24,14 @@ Vaccinations are crucial for disease control, yet coverage and effectiveness var
   <li><b>Disease Prevention:</b> Detect diseases showing poor vaccine impact.</li>
   <li><b>Resource Allocation:</b>Plan vaccine distribution efficiently.</li>
   <li><b>Global Health Policy:</b>Provide evidence-based recommendations.</li>
-</ul>
+</ul><hr>
    
 <h3>🛠️ Tech Stack</h3>
 <ul>
   <li><b>Python</b>Data cleaning & preprocessing</li>
   <li><b>SQL</b>: Database design & queries.</li>
   <li><b>Power BI</b>: Dashboards & visualization.</li>
-</ul>
+</ul><hr>
 
 <h3>📂 Dataset:</h3>
 The project uses vaccination, disease incidence, reported cases, vaccine introduction, and schedule data.
@@ -41,4 +41,4 @@ The project uses vaccination, disease incidence, reported cases, vaccine introdu
      <li>Reported Cases Data</li>
      <li>Vaccine Introduction Data</li>
      <li>Vaccine Schedule Data</li>
-   </ul>
+   </ul><hr>
